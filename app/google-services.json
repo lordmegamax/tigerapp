@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398253367202",
+    "firebase_url": "https://tigerapp-e8a2c.firebaseio.com",
+    "project_id": "tigerapp-e8a2c",
+    "storage_bucket": "tigerapp-e8a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398253367202:android:731c77b79cf21cd5415cfb",
+        "android_client_info": {
+          "package_name": "com.byters.TigerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398253367202-0i1nebebnr4kqvs75mbn6a5js6ghgq95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.byters.TigerApp",
+            "certificate_hash": "3af0f0ad6b845918e3258222b09e35d64b24121b"
+          }
+        },
+        {
+          "client_id": "398253367202-ukuckqreut3943gpe1lu81tk2bpftv0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhBi5jp15NJGTudVBtRoexdagvI3joE_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398253367202-ukuckqreut3943gpe1lu81tk2bpftv0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
